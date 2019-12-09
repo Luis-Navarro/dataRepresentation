@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8">
+<library>
+	<catalogue category="Technical">
+		<Book>
+			<ISBN>132456798</ISBN>
+			<Title>Guns, Germs and Steel</Title>
+			<Author>Jared Diamond</Author>
+		</Book>
+		<Book>
+			<ISBN>258463544</ISBN>
+			<Title>Think Bayes</Title>
+			<Author>Allen B. Downey</Author>
+		</Book>
+	</catalogue>
+	<catalogue category="Cook">
+		<Book>
+			<ISBN>545467834</ISBN>
+			<Title>Cooking for Dummies</Title>
+			<Author>John Doe</Author>
+		</Book>
+		<Book>
+			<ISBN>5588784125</ISBN>
+			<Title>The Atomic Kitchen</Title>
+			<Author>Jane Doe</Author>
+		</Book>
+	</catalogue>
+
+</library>
